@@ -7,7 +7,8 @@
 		3. Download redis client: github.com/nrk/predis.git and store in your project root folder
 		4. Demo:Run redis_demo.php in your browser and see output of some redis functios
 		Add/Modify some redis functions to redis_demo.php
-		N.B: Step 3 is done if you download this repository.
+		
+	N.B: Step 3 is done if you download this repository.
 
 			
 
